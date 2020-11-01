@@ -1,0 +1,26 @@
+{
+  "name": "Chat_informatica",
+  "version": "1.0.0",
+  "description": "chat de informatica con socket.io\r integrante 1: daniel sena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "star_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsena171/Chat_informatica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsena171/Chat_informatica/issues"
+  },
+  "homepage": "https://github.com/danielsena171/Chat_informatica#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^2.3.0"
+  }
+}
